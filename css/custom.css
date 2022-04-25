@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    padding-top: .5in;
+    padding-left: .5in;
+    padding-right: .5in;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
